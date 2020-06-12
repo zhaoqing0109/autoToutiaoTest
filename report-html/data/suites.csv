@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Jun 12 10:14:13 CST 2020","Fri Jun 12 10:14:16 CST 2020","3438","script.mp","test_login","TestLogin","","","test_login_0_15811859004",""
+"passed","Fri Jun 12 10:13:58 CST 2020","Fri Jun 12 10:13:58 CST 2020","1","script.mp","test_begin","TestBegin","","","test_begin",""
+"passed","Fri Jun 12 10:14:37 CST 2020","Fri Jun 12 10:14:40 CST 2020","2660","script.mp","test_end","TestEnd","","","test_end",""
+"passed","Fri Jun 12 10:14:18 CST 2020","Fri Jun 12 10:14:37 CST 2020","19440","script.mp","test_pub_aritical","TestPubAritical","","","test_pub_aritical",""

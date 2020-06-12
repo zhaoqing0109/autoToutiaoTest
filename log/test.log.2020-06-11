@@ -1,0 +1,2 @@
+2020-06-11 16:37:44,736 INFO [test_login.py(test_login:32)] - 15811859004用户开始执行登陆
+2020-06-11 16:37:45,058 INFO [test_login.py(test_login:35)] - 开始执行mp端登陆结果断言

@@ -1,0 +1,77 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "script.mp",
+    "children" : [ {
+      "name" : "test_begin",
+      "children" : [ {
+        "name" : "test_begin",
+        "uid" : "1fa8e465942d1fba",
+        "parentUid" : "2a811d51f4ecd9465c8ee71dec5d3ba0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1591928038674,
+          "stop" : 1591928038675,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2a811d51f4ecd9465c8ee71dec5d3ba0"
+    }, {
+      "name" : "test_login",
+      "children" : [ {
+        "name" : "test_login_0_15811859004",
+        "uid" : "5a2e66d31ae4fa36",
+        "parentUid" : "2cfb12f4dc533a896f700452e4e44c15",
+        "status" : "passed",
+        "time" : {
+          "start" : 1591928053021,
+          "stop" : 1591928056459,
+          "duration" : 3438
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2cfb12f4dc533a896f700452e4e44c15"
+    }, {
+      "name" : "test_pub_aritical",
+      "children" : [ {
+        "name" : "test_pub_aritical",
+        "uid" : "1497cc2111984aaa",
+        "parentUid" : "9d4c032e5416441a54d35728cd8d6db4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1591928058528,
+          "stop" : 1591928077968,
+          "duration" : 19440
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "9d4c032e5416441a54d35728cd8d6db4"
+    }, {
+      "name" : "test_end",
+      "children" : [ {
+        "name" : "test_end",
+        "uid" : "90fec0d1e3216a07",
+        "parentUid" : "8e7ccb4fa3384c13af2ce1d635c71977",
+        "status" : "passed",
+        "time" : {
+          "start" : 1591928077996,
+          "stop" : 1591928080656,
+          "duration" : 2660
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8e7ccb4fa3384c13af2ce1d635c71977"
+    } ],
+    "uid" : "script.mp"
+  } ]
+}
